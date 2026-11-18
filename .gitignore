@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+nohup.out
+*.tar.gz
+*.tar
+.DS_Store
+*.textClipping
+# scan data folders (timestamped scan IDs)
+2[0-9][0-9][0-9]-*/
